@@ -1,6 +1,7 @@
  ▬▬▬▬▬▬ ⭐️ Dynamic Secrets generation commands ⭐️ ▬▬▬▬▬▬ 
 
 CTRL + C   -----> To stop the vault from development mode
+$ vault status   ---------> to Check the vault status
 
 1. Unset development token
 $ unset VAULT_TOKEN
