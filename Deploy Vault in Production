@@ -25,6 +25,8 @@ ui = true
 3. Create "RAFT" storage backend directory
 $ mkdir -p ./vault/data
 
+$touch config.hcl   #We are making the empty file for writing configuration
+
 4. Starting vault server using config.hcl 
 $ vault server -config=config.hcl
 
