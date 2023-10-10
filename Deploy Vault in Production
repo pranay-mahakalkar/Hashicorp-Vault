@@ -1,4 +1,6 @@
-▬▬▬▬▬▬ ⭐️ Dynamic Secrets generation commands ⭐️ ▬▬▬▬▬▬ 
+ ▬▬▬▬▬▬ ⭐️ Dynamic Secrets generation commands ⭐️ ▬▬▬▬▬▬ 
+
+CTRL + C   -----> To stop the vault from development mode
 
 1. Unset development token
 $ unset VAULT_TOKEN
